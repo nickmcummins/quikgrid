@@ -1,1 +1,20 @@
 * text=auto !eol
+/QuikGrid-vc7.sln -text
+/QuikGrid-vc7.vcproj -text
+/QuikGrid-vc8.sln -text
+/QuikGrid-vc8.vcproj -text
+/QuikGrid-vc9.sln -text
+/QuikGrid-vc9.vcproj -text
+/contour.cpp -text
+/contour.h -text
+/demo.cpp -text
+/gridxtyp.cpp -text
+/gridxtyp.h -text
+/lesser.txt -text
+/readme.txt -text
+/scatdata.cpp -text
+/scatdata.h -text
+/surfgrid.cpp -text
+/surfgrid.h -text
+/xpand.cpp -text
+/xpand.h -text
