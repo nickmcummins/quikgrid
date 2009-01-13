@@ -1,4 +1,5 @@
 * text=auto !eol
+/Makefile -text
 /QuikGrid-vc7.sln -text
 /QuikGrid-vc7.vcproj -text
 /QuikGrid-vc8.sln -text
@@ -11,6 +12,7 @@
 /gridxtyp.cpp -text
 /gridxtyp.h -text
 /lesser.txt -text
+/qgcapi.cpp -text
 /readme.txt -text
 /scatdata.cpp -text
 /scatdata.h -text
