@@ -12,6 +12,13 @@
 /gridxtyp.cpp -text
 /gridxtyp.h -text
 /lesser.txt -text
+python/quikgrid/__init__.py -text
+python/quikgrid/capi.py -text
+python/quikgrid/capi_test.py -text
+python/quikgrid/contours.txt -text
+python/quikgrid/contours_geom.txt -text
+python/quikgrid/grid.txt -text
+python/setup.py -text
 /qgcapi.cpp -text
 /readme.txt -text
 /scatdata.cpp -text
