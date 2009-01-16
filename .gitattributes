@@ -1,7 +1,6 @@
 * text=auto !eol
 /Makefile -text
 core/CMakeLists.txt -text
-core/Makefile -text
 core/QuikGrid-vc7.sln -text
 core/QuikGrid-vc7.vcproj -text
 core/QuikGrid-vc8.sln -text
