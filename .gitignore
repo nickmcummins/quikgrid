@@ -1,4 +1,8 @@
-core/demo
-core/libquikgrid.so
+core/CMakeCache.txt
+core/CMakeFiles
+core/Makefile
+core/cmake_install.cmake
+core/install_manifest.txt
+core/libquikgrid.*
 /demo
 /libquikgrid.so
